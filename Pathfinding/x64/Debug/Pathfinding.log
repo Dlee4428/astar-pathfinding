@@ -1,0 +1,18 @@
+﻿     D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\x64\Debug\Pathfinding.lib 라이브러리 및 D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\x64\Debug\Pathfinding.exp 개체를 생성하고 있습니다.
+AStar.obj : error LNK2019: SDL_CreateThread 외부 기호(참조 위치: "public: void __cdecl AStar::Search(class Node *,class Node *)" (?Search@AStar@@QEAAXPEAVNode@@0@Z) 함수)에서 확인하지 못했습니다.
+AStar.obj : error LNK2019: SDL_Delay 외부 기호(참조 위치: "public: static int __cdecl AStar::SearchThread(void *)" (?SearchThread@AStar@@SAHPEAX@Z) 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2001: SDL_Delay 외부 기호를 확인할 수 없습니다.
+main.obj : error LNK2019: SDL_GetError 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_CreateWindow 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_GetWindowSurface 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_UpdateWindowSurface 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_DestroyWindow 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_PollEvent 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_Init 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+main.obj : error LNK2019: SDL_Quit 외부 기호(참조 위치: SDL_main 함수)에서 확인하지 못했습니다.
+Map.obj : error LNK2019: SDL_MapRGB 외부 기호(참조 위치: "public: void __cdecl Map::DrawMarker(struct SDL_Surface *,enum Map::MarkType,class Vector2)" (?DrawMarker@Map@@QEAAXPEAUSDL_Surface@@W4MarkType@1@VVector2@@@Z) 함수)에서 확인하지 못했습니다.
+Map.obj : error LNK2019: SDL_FillRect 외부 기호(참조 위치: "public: void __cdecl Map::DrawMarker(struct SDL_Surface *,enum Map::MarkType,class Vector2)" (?DrawMarker@Map@@QEAAXPEAUSDL_Surface@@W4MarkType@1@VVector2@@@Z) 함수)에서 확인하지 못했습니다.
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: WinMain 외부 기호(참조 위치: "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수)에서 확인하지 못했습니다.
+..\lib\SDL2-2.0.7\lib\x86\SDL2.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+..\lib\SDL2-2.0.7\lib\x86\SDL2main.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\x64\Debug\Pathfinding.exe : fatal error LNK1120: 13개의 확인할 수 없는 외부 참조입니다.

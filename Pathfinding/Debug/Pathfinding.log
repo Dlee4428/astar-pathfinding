@@ -1,0 +1,17 @@
+﻿  AStar.cpp
+D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\astar-pathfinding\lib\SDL2-2.0.7\include\SDL_surface.h(70,1): warning C4099: 'SDL_Surface': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  Graph.cpp
+D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\astar-pathfinding\lib\SDL2-2.0.7\include\SDL_surface.h(69): message : 'SDL_Surface' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\astar-pathfinding\Pathfinding\Graph.cpp(47,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\astar-pathfinding\Pathfinding\Graph.cpp(48,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\astar-pathfinding\Pathfinding\Graph.cpp(49,13): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\astar-pathfinding\Pathfinding\Map.h(6,18): warning C4099: 'SDL_Surface': 처음에는 'struct'을(를) 사용하여 형식 이름을 표시했는데 이제는 'class'을(를) 사용하여 표시합니다.
+  Map.cpp
+D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\astar-pathfinding\lib\SDL2-2.0.7\include\SDL_surface.h(69): message : 'SDL_Surface' 선언을 참조하십시오.
+D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\astar-pathfinding\lib\SDL2-2.0.7\include\SDL_surface.h(70,1): warning C4099: 'SDL_Surface': 처음에는 'class'을(를) 사용하여 형식 이름을 표시했는데 이제는 'struct'을(를) 사용하여 표시합니다.
+  Vector2.cpp
+  코드를 생성하고 있습니다...
+D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\astar-pathfinding\lib\SDL2-2.0.7\include\SDL_surface.h(69): message : 'SDL_Surface' 선언을 참조하십시오.
+     D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\astar-pathfinding\Debug\Pathfinding.lib 라이브러리 및 D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\astar-pathfinding\Debug\Pathfinding.exp 개체를 생성하고 있습니다.
+  Pathfinding.vcxproj -> D:\Humber Game Programming\Semester 5\GAME_302_Lim\Game302_Assignment2\astar-pathfinding\Debug\Pathfinding.exe
