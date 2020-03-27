@@ -1,4 +1,4 @@
-# a*-pathfinding
+# a* pathfinding algorithm 
 ![proj3](https://user-images.githubusercontent.com/44447609/77797900-43763d00-7048-11ea-9d5a-fa830d025005.png)
 
 ### General Features
